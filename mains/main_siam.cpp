@@ -8,6 +8,7 @@ int main()
   //samo da vidim dal radi git
   //proba za push
   //Milos
+  //Opet
   GRID grid("params");
 
   Result result(&grid);
